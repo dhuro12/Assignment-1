@@ -243,6 +243,127 @@ td{
     text-align: center;
     
 }
+.news{
+    width: 1228px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 78px;
+}
+.news-container{
+    background-color: white;
+    display: flex;
+    gap: 30px;
+    padding: 45px;
+    border-radius: 23px;
+}
+.news-container img{
+    border-radius: 23px;
+}
+.news-description h3{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 11px;
+    color: #0E0E0E;
+    opacity: 80%;
+}
+.news-description pre{
+ font-size: 15px;
+ opacity: 70%;
+ margin-bottom: 11px;
+}
+.news-description img{
+    margin-bottom: 11px;
+}
+.news-description p{
+    opacity: 70%;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.news-description button{
+    font-size: 17px;
+    padding: 12px 25px;
+    background-color: #006A50;
+    border-radius: 7px;
+    border: none;
+    color: white;
+}
+.news > div {
+    margin-top: 76px;
+}
+
+.news-container{
+    margin-bottom: 23px;
+    
+}
+.donate-section{
+    
+    width: 1228px;
+    height: auto;
+    margin: 0 auto;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.donate-section h2{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 23px;
+}
+.donate-section p{
+    color: #0E0E0E;
+    opacity: 70%;
+    text-align: justify;
+    font-size: 15px;
+    
+   
+    
+}
+.donatebox{
+    font-size: 38px;
+    font-weight: bold;
+    height: 110px;
+    width: 224px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    border: 1px solid rgb(212, 208, 208);
+    
+}
+
+.donatecontainer{
+    display: flex;
+    width: 1028px;
+    gap: 23px;
+
+    margin:30px auto;
+    justify-content: center;
+    align-items: center;
+}
+#donatebox2{
+    background-color: #C6E4D6;
+}
+.donate-section input{
+    width: 1000px;
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.donate-btn{
+    font-size: 17px;
+    padding: 16px 31px;
+    background-color: #006A50;
+    color: white;
+    border-radius: 7px;
+}
+
 
 
 
