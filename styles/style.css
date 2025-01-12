@@ -190,3 +190,59 @@ html{
     padding: 40px 23px;
     border-radius: 15px;
 }
+.table-section{
+    width: 1228px;
+    height: 461px;
+    margin: 0 auto;
+}
+.table-section h2{
+    margin-bottom: 23px;
+}
+.table-section div{
+    padding: 30px;
+    background-color: white;
+    border-radius: 15px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+td,th{
+    border: 1px solid rgb(211, 211, 211);
+    padding: 23px;
+}
+th{
+    background-color: #C6E4D6;
+     
+    font-size: 19px;
+    font-weight: 700; 
+}
+td{
+    font-weight: 700;
+    font-size: 15px;
+}
+.table-section button{
+    padding: 12px;
+    width: 60%;
+    margin: auto;
+    background-color: #C6E4D6;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500px;
+    
+}
+#first{
+    text-align: left;
+}
+#second{
+    text-align: right;
+}
+.tdbutton{
+    text-align: center;
+    
+}
+
+
+
